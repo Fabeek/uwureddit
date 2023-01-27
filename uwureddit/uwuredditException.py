@@ -1,0 +1,3 @@
+
+class uwuredditException(Exception):
+    pass
